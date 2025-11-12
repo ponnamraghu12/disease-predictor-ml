@@ -9,22 +9,6 @@ This project compares the performance of three classifiers — **Decision Tree**
 
 ---
 
-## 📘 Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [How It Works](#how-it-works)
-5. [Project Structure](#project-structure)
-6. [Setup & Installation](#setup--installation)
-7. [Usage](#usage)
-8. [Results & Accuracy](#results--accuracy)
-9. [Future Enhancements](#future-enhancements)
-10. [Screenshots (optional)](#screenshots-optional)
-11. [License](#license)
-
----
-
 ## 🧩 Overview
 
 The **Disease Predictor using Machine Learning** allows users to input symptoms and receive potential disease predictions. It leverages ML models trained on a dataset of **132 symptoms** and **41 diseases**, offering instant insights via a friendly Tkinter GUI.
