@@ -1,11 +1,7 @@
-Perfect — your project is already well-defined and impressive as a **machine learning + GUI application** for healthcare prediction. Let’s make your GitHub upload shine. Below is a **complete insight and documentation guide** structured like a professional open-source project.
-
----
-
 # 🩺 Disease Predictor using Machine Learning
 
-A **Tkinter-based desktop application** that predicts possible diseases based on user-input symptoms using machine learning models trained on healthcare datasets.
-This project compares the performance of three classifiers — **Decision Tree**, **Random Forest**, and **Naive Bayes** — and demonstrates applied ML concepts with a clean, interactive UI.
+A Tkinter-based desktop application** that predicts possible diseases based on user-input symptoms using machine learning models trained on healthcare datasets.
+This project compares the performance of three classifiers — Decision Tree , Random Forest, and Naive Bayes — and demonstrates applied ML concepts with a clean, interactive UI.
 
 ---
 
